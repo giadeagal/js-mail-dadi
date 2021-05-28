@@ -1,0 +1,9 @@
+body {
+    background-color: hotpink;
+}
+
+#printer {
+    text-align: center;
+    color: lawngreen;
+    font-size: 20rem;
+}
